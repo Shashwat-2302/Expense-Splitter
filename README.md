@@ -18,7 +18,7 @@ Perfect for roommates, trips, or group outings.
 
 ## 📸 Demo Screenshot
 
-![Demo Screenshot](screenshot.jpg)  
+![Demo Screenshot](screenshot.JPG)  
 
 ---
 
