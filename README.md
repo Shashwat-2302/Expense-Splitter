@@ -18,10 +18,21 @@ Perfect for roommates, trips, or group outings.
 
 ## 📸 Demo Screenshot
 
-![Demo Screenshot](screenshot.png)  
-*Replace `screenshot.png` with your actual screenshot.*
+![Demo Screenshot](screenshot.jpg)  
 
 ---
 
 ## ⚡ Usage
-1) Open the Website: 
+1) Open the Website: https://expense-splitter-weld.vercel.app/
+2) Enter total expense and number of people.
+3) Click Calculate to see the result.
+4) Toggle Dark Mode 🌙 or download the result as PDF ⬇️.
+
+---
+
+## 🛠 Technologies Used
+1) HTML5
+2) CSS3
+3) Bootstrap 5 – for responsive layout & components
+4) JavaScript – for logic & DOM manipulation
+5) jsPDF – for generating PDF reports
